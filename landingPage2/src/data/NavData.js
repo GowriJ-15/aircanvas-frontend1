@@ -5,7 +5,7 @@ export const NavData = [
    
     },
     {
-      title: "Portfolio",
+      title: "User Manual",
       path: "portfolio",
     
     },

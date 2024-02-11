@@ -19,8 +19,8 @@ const Navbar = () => {
         <div className=" w-full h-20 flex justify-between align-center text-white text-xl px-10 md:px-0">
           {/* logo section */}
           <div className="centered">
-            <p>Gooddo
-              <span className="text-red-500 font-bold">Travels</span></p>
+            <p>Air
+              <span className="text-red-500 font-bold">Canvas</span></p>
             
           </div>
           
